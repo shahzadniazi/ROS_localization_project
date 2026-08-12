@@ -1,3 +1,12 @@
 # ROS_localization_project
 
 [![DOI](https://zenodo.org/badge/1331716237.svg)](https://doi.org/10.5281/zenodo.21899484)
+
+
+The code for the Standard EKF, Dual-Stage EKF, AI-based smoothing, and different environmental/failure scenarios has been uploaded to this repository. The code requires ROS on Ubuntu to run properly.
+
+For reference and verification, I have also attached the complete code and the ROS catkin_ws workspace. The catkin_ws file can be used to check the ROS package structure, dependencies, and reliability of the uploaded implementation.
+
+Code link https://drive.google.com/file/d/1MN50wM7dQ7o2T48ppReTcWwOCRmUqmRs/view?usp=sharing  
+
+ROS catkin_ws link  https://drive.google.com/file/d/1S8FH1Sj3GA74Uvp8VGz1AHLj98yBzlEF/view?usp=sharing
